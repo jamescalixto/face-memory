@@ -1,2 +1,2 @@
 # face-memory
- face memorizing game
+Repository for my face memorization game. Check it out [https://jamescalixto.com/face-memory/](here).
